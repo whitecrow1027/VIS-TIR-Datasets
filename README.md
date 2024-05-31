@@ -26,3 +26,27 @@ and left/right depth map ground-truth.
 Datasets contains images with varing sences and illuminations.
 
 ![sence example](img/example.jpg)
+
+## cites
+If the current dataset is helpful to your research, you can cite the following papers：
+```
+@article{DBLP:journals/tits/GuoQXXK23,
+  author       = {Yubin Guo and
+                  Xinlei Qi and
+                  Jin Xie and
+                  Cheng{-}Zhong Xu and
+                  Hui Kong},
+  title        = {Unsupervised Cross-Spectrum Depth Estimation by Visible-Light and
+                  Thermal Cameras},
+  journal      = {{IEEE} Trans. Intell. Transp. Syst.},
+  volume       = {24},
+  number       = {10},
+  pages        = {10937--10947},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/TITS.2023.3279559},
+  doi          = {10.1109/TITS.2023.3279559},
+  timestamp    = {Mon, 01 Apr 2024 11:14:52 +0200},
+  biburl       = {https://dblp.org/rec/journals/tits/GuoQXXK23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
