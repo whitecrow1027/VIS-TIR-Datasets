@@ -10,6 +10,10 @@ We use two hybrid [RGB-Thermal cameras](https://ieeexplore.ieee.org/document/879
 
 The stereo baseline between left and right camera is 0.5m, and the camera focal length is 1.6345*10^3mm
 
+update: add calibration parameter from Matlab. Please note that:
+1. The released images have been calibrated. 
+2. The calibration parameter of the original image with image size 1280*960. The released images are cut to remove some of the sky area at the top with the final size 1280*800.
+
 ![handware system](./img/camera.jpg)
 
 ## Data exapmle
