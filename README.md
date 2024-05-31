@@ -12,7 +12,7 @@ The stereo baseline between left and right camera is 0.5m, and the camera focal 
 
 update: add calibration parameter from Matlab. Please note that:
 1. The released images have been calibrated. 
-2. The calibration parameter of the original image with image size 1280*960. The released images are cut to remove some of the sky area at the top with the final size 1280*800.
+2. The calibration parameter of the original image with image size 1280x960. The released images are cut to remove some of the sky area at the top with the final size 1280x800.
 
 ![handware system](./img/camera.jpg)
 
