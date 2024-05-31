@@ -1,5 +1,5 @@
 # VIS-TIR Datasets
-A visible-light and thermal-infrared images datasets for dual-spectrum depth estimation
+A visible-light and thermal-infrared images datasets for dual-spectrum depth estimation in [paper](https://ieeexplore.ieee.org/document/10146199)
 
 You can download the dataset with [BaiduYun](https://pan.baidu.com/s/1nQt-e3wxJdfMEuafnE7cGQ?pwd=msdd)
 
@@ -47,6 +47,32 @@ If the current dataset is helpful to your research, you can cite the following p
   doi          = {10.1109/TITS.2023.3279559},
   timestamp    = {Mon, 01 Apr 2024 11:14:52 +0200},
   biburl       = {https://dblp.org/rec/journals/tits/GuoQXXK23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/ZhangGGGLSHYWYP19,
+  author       = {Yigong Zhang and
+                  Yicheng Gao and
+                  Shuo Gu and
+                  Yubin Guo and
+                  Minghao Liu and
+                  Zezhou Sun and
+                  Zhixing Hou and
+                  Hang Yang and
+                  Ying Wang and
+                  Jian Yang and
+                  Jean Ponce and
+                  Hui Kong},
+  title        = {Build your own hybrid thermal/EO camera for autonomous vehicle},
+  booktitle    = {International Conference on Robotics and Automation, {ICRA} 2019,
+                  Montreal, QC, Canada, May 20-24, 2019},
+  pages        = {6555--6560},
+  publisher    = {{IEEE}},
+  year         = {2019},
+  url          = {https://doi.org/10.1109/ICRA.2019.8794320},
+  doi          = {10.1109/ICRA.2019.8794320},
+  timestamp    = {Fri, 06 Oct 2023 13:00:13 +0200},
+  biburl       = {https://dblp.org/rec/conf/icra/ZhangGGGLSHYWYP19.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
